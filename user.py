@@ -16,6 +16,7 @@ class User:
 
     def get_user_info(self):
         print(f"User {self.name} currently works as {self.current_job_title}. You can contact them at {self.email}")
+        #it is to see the thing
 
 
 
